@@ -1,7 +1,7 @@
 {
     "name":"vrcyue VPM Packages",
     "id":"net.vrcyue.vpm",
-    "url":"https://vrcyue.github.io/vpm-repo/packages.json",
+    "url":"https://vrcyue.github.io/vpm-repository/index.json",
     "author":{
         "email":"iamyuenao@gmail.com",
         "name":"vrcyue"
